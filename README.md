@@ -14,5 +14,5 @@ This repository hosts the **Exploit Prediction Scoring System (EPSS) CSV dataset
 
 You can fetch the CSV file directly using the raw GitHub URL:
 
-url = "https://bhojwani-lobstr.com/<username>/epss-data/main/epss_scores.csv"
+url = "https://raw.githubusercontent.com/bhojwani-lobstr.com/epss-data/main/epss_scores.csv"
 
