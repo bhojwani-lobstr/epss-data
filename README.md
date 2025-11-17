@@ -14,9 +14,5 @@ This repository hosts the **Exploit Prediction Scoring System (EPSS) CSV dataset
 
 You can fetch the CSV file directly using the raw GitHub URL:
 
-```python
-import pandas as pd
-
 url = "https://raw.githubusercontent.com/<username>/epss-data/main/data/epss_scores.csv"
-df = pd.read_csv(url)
-print(df.head())
+
